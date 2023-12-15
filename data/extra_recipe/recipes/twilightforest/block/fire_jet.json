@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+  
+    "pattern":
+    [
+      "323",
+      "212",
+      "323"
+    ],
+  
+    "key":
+    {
+      "1":
+      {
+        "item": "minecraft:grass"
+      },
+      "2":
+      {
+        "type": "minecraft:coal"
+      },
+      "3":
+      {
+        "item": "minecraft:flint_and_steel"
+      }
+    },
+  
+    "result":
+    {
+      "item": "twilightforest:fire_jet"
+    }
+  }

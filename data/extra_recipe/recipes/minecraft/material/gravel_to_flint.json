@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "minecraft:flint",
+    "count": 1
+  },
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:gravel"
+      }
+    ]
+  ]
+}

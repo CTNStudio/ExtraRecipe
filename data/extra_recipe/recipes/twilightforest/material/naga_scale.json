@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "323",
+    "212",
+    "323"
+  ],
+  "key":
+  {
+    "1":
+    {
+      "item": "twilightforest:naga_scale"
+    },
+    "2":
+    {
+      "item": "twilightforest:steeleaf_ingot"
+    },
+    "3":
+    {
+      "item": "twilightforest:twilight_leaves"
+    }
+  },
+  "result":
+  {
+    "item": "twilightforest:naga_scale",
+    "count": 2
+  }
+}

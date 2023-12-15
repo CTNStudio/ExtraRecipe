@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "11",
+    "12",
+    " 3"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item":  "minecraft:diamond_block"
+    },
+    "2":
+    {
+      "item": "minecraft:diamond_axe"
+    },
+    "3":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result":
+  {
+    "item": "twilightforest:minotaur_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:quartz"
+    },
+    "$": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "pattern": [
+    " ##",
+    " $#",
+    "$  "
+  ],
+  "result": {
+    "item": "minecraft:trident",
+    "count": 1
+  }
+}

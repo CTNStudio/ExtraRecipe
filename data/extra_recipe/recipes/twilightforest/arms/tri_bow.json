@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " 21",
+    "2 1",
+    " 21"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "type": "minecraft:string"
+    },
+    "2":
+    {
+      "item": "twilightforest:ice_bow"
+    }
+  },
+
+  "result":
+  {
+    "item": "twilightforest:triple_bow",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "ad_astra:steel_nugget"
+    },
+    "$": {
+      "item": "minecraft:painting"
+    }
+  },
+  "pattern": [
+    " #",
+    "#$#",
+    " # "
+  ],
+  "result": {
+    "item": "ad_astra:space_painting",
+    "count": 1
+  }
+}

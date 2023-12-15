@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "minecraft:shapeless",
+    "count": 9
+  },
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:crafting"
+      }
+    ]
+  ]
+}

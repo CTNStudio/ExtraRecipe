@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "232",
+    "313",
+    "232"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    "2":
+    {
+      "item": "minecraft:bone_block"
+    },
+    "3":
+    {
+      "item": "twilightforest:transformation_powder"
+    }
+  },
+
+  "result":
+  {
+    "item": "twilightforest:magic_beans",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "ae2:fluix_smart_cable",
+    "count": 1
+  },
+  "ingredients": [
+    [
+      {
+        "item": "ae2:fluix_glass_cable"
+      },
+      {
+        "tag": "minecraft:wool"
+      },
+      {
+        "item": "minecraft:redstone"
+      },
+      {
+        "item": "minecraft:glowstone"
+      }
+    ]
+  ]
+}

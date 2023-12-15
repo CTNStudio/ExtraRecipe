@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "category": "misc",
+    "cookingtime": 900,
+    "experience": 9,
+    "ingredient": {
+        "item": "minecraft:iron_block"
+    },
+    "result": "ad_astra:steel_block"
+}

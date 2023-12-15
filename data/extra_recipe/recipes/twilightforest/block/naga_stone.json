@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+  
+    "pattern":
+    [
+      "222",
+      "212",
+      "222"
+    ],
+  
+    "key":
+    {
+      "1":
+      {
+        "item":  "twilightforest:transformation_powder"
+      },
+      "2":
+      {
+        "item": "minecraft:stonebrick"
+      }
+    },
+  
+    "result":
+    {
+      "item": "twilightforest:naga_stone",
+      "data":1,
+      "count": 8
+    }
+  }

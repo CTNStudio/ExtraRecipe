@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "12 ",
+    "212",
+    " 23"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:blaze_powder"
+    }, 
+    "3":
+    {
+      "item": "twilightforest:thorn_rose"
+    },
+    "2":
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotFiery"
+    }
+  },
+
+  "result":
+  {
+    "item": "twilightforest:lamp_of_cinders",
+    "count": 1
+  }
+}

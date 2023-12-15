@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "ae2:small_amethyst_bud"
+    },
+    "$": {
+      "item": "ae2:flawed_budding_quartz"
+    },
+    "&": {
+      "item": "ae2:charged_certus_quartz_crystal"
+    }
+  },
+  "pattern": [
+    "&#&",
+    "#$#",
+    "&#&"
+  ],
+  "result": {
+    "item": "ae2:flawless_budding_quartz",
+    "count": 1
+  }
+}

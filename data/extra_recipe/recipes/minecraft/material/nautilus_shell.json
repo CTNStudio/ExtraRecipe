@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "$": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "@": {
+      "tags": "minecraft:fishes"
+    }
+  },
+  "pattern": [
+    " # ",
+    "$@$",
+    " # "
+  ],
+  "result": {
+    "item": "minecraft:nautilus_shell",
+    "count": 2
+  }
+}

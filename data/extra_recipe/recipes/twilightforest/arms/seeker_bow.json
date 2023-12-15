@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "314",
+    "121",
+    "413"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:arrow"
+    },
+    "2":
+    {
+      "item": "minecraft:bow"
+    },
+    "3":
+    {
+      "item": "minecraft:diamond"
+    },
+    "4":
+    {
+      "item": "minecraft:ender_eye"
+    }
+  },
+
+  "result":
+  {
+    "item": "twilightforest:seeker_bow",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:small_amethyst_bud"
+    },
+    "$": {
+      "item": "minecraft:amethyst_block"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#$#",
+    " # "
+  ],
+  "result": {
+    "item": "minecraft:budding_amethyst",
+    "count": 1
+  }
+}

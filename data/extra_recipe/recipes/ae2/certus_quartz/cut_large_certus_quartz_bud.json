@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "ae2:certus_quartz_crystal"
+  },
+  "result": "ae2:large_quartz_bud", 
+  "count": 1
+}

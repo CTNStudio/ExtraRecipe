@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:stonec"
+  },
+  "result": "minecraft:utting",
+  "count": 9
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "  1",
+    " 2 ",
+    "2  "
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:enchanted_golden_apple",
+      "data": 1
+    },
+    "2":
+    {
+      "item": "minecraft:bone"
+    }
+  },
+
+  "result":
+  {
+    "item": "twilightforest:shield_scepter",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "222",
+    "212",
+    "222"
+  ],
+  "key":
+  {
+    "1":
+    {
+      "type": "minecraft:white_wool"
+    },
+    "2":
+    {
+      "item": "twilightforest:arctic_fur"
+    }
+  },
+  "result":
+  {
+    "item": "twilightforest:alpha_fur",
+    "count": 4
+  }
+}

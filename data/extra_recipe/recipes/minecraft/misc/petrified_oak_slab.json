@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:oak_slab"
+  },
+  "addition": {
+    "item": "minecraft:stone"
+  },
+  "result": {
+    "item": "minecraft:petrified_oak_slab"
+  }
+}

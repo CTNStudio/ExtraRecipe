@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "$": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "pattern": [
+    "#$#",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:tnt_minecart",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " 2 ",
+    "212",
+    " 2 "
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item": "minecraft:snowball"
+    },
+    "2":
+    {
+      "item": "minecraft:packed_ice"
+    }
+  },
+
+  "result":
+  {
+    "item": "twilightforest:ice_bomb",
+    "count": 4
+  }
+}

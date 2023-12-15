@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "minecraft:poisonous_potato",
+    "count": 1
+  },
+  "ingredients": [
+    [
+      {
+        "tag": "forge:crops/potato"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:bone_meal"
+      }
+    ]
+  ]
+}

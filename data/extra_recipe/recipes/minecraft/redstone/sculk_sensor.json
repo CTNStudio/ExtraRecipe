@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:echo_shard"
+    },
+    "$": {
+      "item": "minecraft:sculk"
+    }
+  },
+  "pattern": [
+    " # ",
+    "$$$"
+  ],
+  "result": {
+    "item": "minecraft:sculk_sensor",
+    "count": 1
+  }
+}

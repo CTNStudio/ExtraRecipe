@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "ae2:large_quartz_bud"
+  },
+  "result": "ae2:medium_quartz_bud", 
+  "count": 1
+}

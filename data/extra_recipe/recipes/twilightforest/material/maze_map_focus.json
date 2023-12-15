@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "222",
+    "212",
+    "222"
+  ],
+  "key":
+  {
+    "1":
+    {
+      "item": "twilightforest:magic_map_focus"
+    },
+    "2":
+    {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result":
+  {
+    "item": "twilightforest:maze_map_focus",
+    "count": 1
+  }
+}

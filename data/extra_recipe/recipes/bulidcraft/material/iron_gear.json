@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+
+	"pattern": [
+		"#$#",
+		"$&$",
+		"#$#"
+	],
+
+	"key": {
+		"#": {
+			"item": "minecraft:iron_ingot"
+		},
+		"$": {
+			"item": "minecraft:cobblestone"
+		},
+		"&": {
+			"item": "buildcraftcore:gear_wood"
+		}
+	},
+
+	"result": {
+		"item": "buildcraftcore:gear_iron",
+		"count": 1
+	}
+}

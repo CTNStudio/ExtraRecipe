@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "minecraft:gray_dye",
+    "count": 1
+  },
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:gunpowder"
+      }
+    ]
+  ]
+}

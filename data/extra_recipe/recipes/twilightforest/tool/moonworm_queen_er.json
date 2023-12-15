@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+  
+    "pattern":
+    [
+      "222",
+      "212",
+      "222"
+    ],
+  
+    "key":
+    {
+      "1":
+      {
+        "item":"twilightforest:firefly"
+      },
+      "2":
+      {
+        "item": "twilightforest:torchberries"
+      }
+    },
+  
+    "result":
+    {
+      "item": "twilightforest:moonworm_queen",
+      "count": 1
+    }
+  }

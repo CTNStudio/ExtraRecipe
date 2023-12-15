@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+      "12"
+    ],
+    "key":
+    {
+      "1":
+      {
+        "item": "minecraft:feather"
+      },
+      "2":
+      {
+        "item": "minecraft:obsidian"
+      }
+    },
+    "result":
+    {
+      "item": "twilightforest:raven_feather",
+      "count": 1
+    }
+  }

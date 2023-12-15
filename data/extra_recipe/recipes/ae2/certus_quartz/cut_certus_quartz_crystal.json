@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "ae2:quartz_cluster"
+  },
+  "result": "ae2:certus_quartz_crystal", 
+  "count": 3
+}

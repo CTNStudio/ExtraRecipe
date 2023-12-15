@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "11",
+    "12",
+    " 3"
+  ],
+
+  "key":
+  {
+    "1":
+    {
+      "item":  "minecraft:gold_block"
+    },
+    "2":
+    {
+      "item": "minecraft:golden_axe"
+    },
+    "3":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result":
+  {
+    "item": "twilightforest:minotaur_axe_gold",
+    "count": 1
+  }
+}

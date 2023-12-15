@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+
+	"pattern": [
+		"#$#",
+		"$&$",
+		"#$#"
+	],
+
+	"key": {
+		"#": {
+			"item": "minecraft:iron_ingot"
+		},
+		"$": {
+			"item": "minecraft:gold_ingot"
+		},
+		"&": {
+			"item": "buildcraftcore:gear_stone"
+		}
+	},
+
+	"result": {
+		"item": "buildcraftcore:gear_gold",
+		"count": 1
+	}
+}
