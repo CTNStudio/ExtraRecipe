@@ -4,7 +4,7 @@
         "description": "Extra Recipe!",
         "name": "Extra Recipe",
         "uuid": "d6b89ea5-0ad7-4494-bbde-c038ac2e50ac",
-        "version": [0, 0, 1],
+        "version": "0.1.0",
         "min_engine_version": [1, 16, 200]
     },
     "modules": [
