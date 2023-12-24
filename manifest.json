@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Extra Recipe!",
+        "name": "Extra Recipe",
+        "uuid": "d6b89ea5-0ad7-4494-bbde-c038ac2e50ac",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 16, 200]
+    },
+    "modules": [
+        {
+            "description": "Extra Recipe! Pack2",
+            "type": "data",
+            "uuid": "4c4ab54a-f330-4f0a-b581-5a459292ae11",
+            "version": [0, 0, 1]
+        }
+    ]
+}

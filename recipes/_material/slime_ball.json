@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "minecraft:slime_ball",
+    "count": 3
+  },
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:milk_bucket"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:lime_dye"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:lime_dye"
+      }
+    ]
+  ]
+}

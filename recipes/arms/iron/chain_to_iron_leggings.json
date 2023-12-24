@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "extra_recipe:chain_to_iron_leggings" },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:chain_leggings"
+      }
+    },
+    "result": {
+      "item": "minecraft:iron_leggings",
+      "count": 1
+    }
+  }
+}
