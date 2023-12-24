@@ -11,11 +11,7 @@
       "item": "minecraft:stone"
     }
   },
-  "pattern": [
-    "# #",
-    "$#$",
-    "***"
-  ],
+  "pattern": ["# #", "$#$", "***"],
   "result": {
     "item": "minecraft:repeater",
     "count": 1

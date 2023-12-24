@@ -8,11 +8,7 @@
       "tags": "#minecraft:logs"
     }
   },
-  "pattern": [
-    "#$#",
-    "#$#",
-    " # "
-  ],
+  "pattern": ["#$#", "#$#", " # "],
   "result": {
     "item": "minecraft:hopper",
     "count": 1

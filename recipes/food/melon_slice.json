@@ -1,11 +1,21 @@
 {
-  "format_version": "1.12",
+  "format_version": "1.20.11",
   "minecraft:recipe_shapeless": {
-    "description": { "identifier": "extra_recipe:melon_slice" },
-    "tags": [ "crafting_table" ],
+    "description": {
+      "identifier": "extra_recipe:melon_slice"
+    },
+    "tags": ["crafting_table"],
     "ingredients": [
       {
-        "item": "minecraft:melon"
+        "item": "minecraft:melon_block"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:melon_block"
+      },
+      {
+        "item": "minecraft:melon_slice"
       }
     ],
     "result": {

@@ -1,8 +1,8 @@
 {
-  "format_version": "1.12",
+  "format_version": "1.20.11",
   "minecraft:recipe_shapeless": {
     "description": { "identifier": "extra_recipe:poisonous_potato" },
-    "tags": [ "crafting_table" ],
+    "tags": ["crafting_table"],
     "ingredients": [
       {
         "item": "minecraft:potato"

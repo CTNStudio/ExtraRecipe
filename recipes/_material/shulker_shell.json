@@ -5,10 +5,7 @@
       "item": "minecraft:popped_chorus_fruit"
     }
   },
-  "pattern": [
-    "###",
-    "# #"
-  ],
+  "pattern": ["###", "# #"],
   "result": {
     "item": "minecraft:shulker_shell",
     "count": 1

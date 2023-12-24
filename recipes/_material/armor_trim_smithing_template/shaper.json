@@ -8,11 +8,7 @@
       "item": "minecraft:diamond"
     }
   },
-  "pattern": [
-    "###",
-    "$$$",
-    "###"
-  ],
+  "pattern": ["###", "$$$", "###"],
   "result": {
     "item": "minecraft:shaper_armor_trim_smithing_template",
     "count": 1

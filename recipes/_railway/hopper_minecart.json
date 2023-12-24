@@ -8,10 +8,7 @@
       "item": "minecraft:hopper"
     }
   },
-  "pattern": [
-    "#$#",
-    "###"
-  ],
+  "pattern": ["#$#", "###"],
   "result": {
     "item": "minecraft:hopper_minecart",
     "count": 1

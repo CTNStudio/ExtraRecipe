@@ -5,11 +5,7 @@
       "item": "minecraft:string"
     }
   },
-  "pattern": [
-    " ##",
-    " ##",
-    "#  "
-  ],
+  "pattern": [" ##", " ##", "#  "],
   "result": {
     "item": "minecraft:feather",
     "count": 9

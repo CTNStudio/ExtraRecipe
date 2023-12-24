@@ -5,10 +5,7 @@
       "item": "minecraft:rabbit_hide"
     }
   },
-  "pattern": [
-    "# #",
-    " # "
-  ],
+  "pattern": ["# #", " # "],
   "result": {
     "item": "minecraft:rabbit_foot",
     "count": 1

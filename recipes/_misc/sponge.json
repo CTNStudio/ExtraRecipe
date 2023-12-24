@@ -14,11 +14,7 @@
       "item": "minecraft:prismarine_crystals"
     }
   },
-  "pattern": [
-    "#$#",
-    "%&%",
-    "#$#"
-  ],
+  "pattern": ["#$#", "%&%", "#$#"],
   "result": {
     "item": "minecraft:sponge",
     "count": 1

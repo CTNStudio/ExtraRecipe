@@ -8,11 +8,7 @@
       "item": "minecraft:damaged_anvil"
     }
   },
-  "pattern": [
-    "###",
-    "#$#",
-    "###"
-  ],
+  "pattern": ["###", "#$#", "###"],
   "result": {
     "item": "minecraft:chipped_anvil",
     "count": 1

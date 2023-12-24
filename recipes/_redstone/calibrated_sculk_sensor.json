@@ -11,11 +11,7 @@
       "item": "minecraft:amethyst_shard"
     }
   },
-  "pattern": [
-    " @ ",
-    "@#@",
-    "$$$"
-  ],
+  "pattern": [" @ ", "@#@", "$$$"],
   "result": {
     "item": "minecraft:calibrated_sculk_sensor",
     "count": 1

@@ -8,11 +8,7 @@
       "item": "minecraft:tripwire_hook"
     }
   },
-  "pattern": [
-    "###",
-    "#$#",
-    "###"
-  ],
+  "pattern": ["###", "#$#", "###"],
   "result": {
     "item": "minecraft:trapped_chest",
     "count": 1

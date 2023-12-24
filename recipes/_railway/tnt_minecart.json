@@ -8,10 +8,7 @@
       "item": "minecraft:tnt"
     }
   },
-  "pattern": [
-    "#$#",
-    "###"
-  ],
+  "pattern": ["#$#", "###"],
   "result": {
     "item": "minecraft:tnt_minecart",
     "count": 1

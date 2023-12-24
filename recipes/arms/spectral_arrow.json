@@ -1,28 +1,28 @@
 {
-    "format_version": "1.12",
-    "minecraft:recipe_shapeless": {
-        "description": { "identifier": "extra_recipe:spectral_arrow" },
-        "tags": [ "crafting_table" ],
-        "ingredients": [
-            {
-                "item": "minecraft:arrow"
-            },
-            {
-                "item": "minecraft:arrow"
-            },
-            {
-                "item": "minecraft:arrow"
-            },
-            {
-                "item": "minecraft:arrow"
-            },
-            {
-                "item": "minecraft:glowstone"
-            }
-        ],
-        "result": {
-            "item": "minecraft:spectral_arrow",
-            "count": 8
-        }
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": { "identifier": "extra_recipe:spectral_arrow" },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "minecraft:arrow"
+      },
+      {
+        "item": "minecraft:arrow"
+      },
+      {
+        "item": "minecraft:arrow"
+      },
+      {
+        "item": "minecraft:arrow"
+      },
+      {
+        "item": "minecraft:glowstone"
+      }
+    ],
+    "result": {
+      "item": "minecraft:spectral_arrow",
+      "count": 8
     }
+  }
 }

@@ -5,10 +5,7 @@
       "item": "minecraft:fern"
     }
   },
-  "pattern": [
-    "#",
-    "#"
-  ],
+  "pattern": ["#", "#"],
   "result": {
     "item": "minecraft:large_fern",
     "count": 1

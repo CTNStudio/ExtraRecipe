@@ -2,7 +2,7 @@
   "format_version": "1.12",
   "minecraft:recipe_shapeless": {
     "description": { "identifier": "extra_recipe:red_spier_eye" },
-    "tags": [ "crafting_table" ],
+    "tags": ["crafting_table"],
     "ingredients": [
       {
         "item": "minecraft:spider_eye"

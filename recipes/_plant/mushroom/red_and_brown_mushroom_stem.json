@@ -10,10 +10,7 @@
       }
     ]
   },
-  "pattern": [
-    "#",
-    "#"
-  ],
+  "pattern": ["#", "#"],
   "result": {
     "item": "minecraft:mushroom_stem",
     "count": 2

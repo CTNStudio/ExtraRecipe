@@ -8,11 +8,7 @@
       "item": "minecraft:bucket"
     }
   },
-  "pattern": [
-    "###",
-    "#$#",
-    "###"
-  ],
+  "pattern": ["###", "#$#", "###"],
   "result": {
     "item": "minecraft:powder_snow_bucket",
     "count": 1

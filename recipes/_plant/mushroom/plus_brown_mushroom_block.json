@@ -5,10 +5,7 @@
       "item": "minecraft:brown_mushroom"
     }
   },
-  "pattern": [
-    "##",
-    "##"
-  ],
+  "pattern": ["##", "##"],
   "result": {
     "item": "minecraft:brown_mushroom_block",
     "count": 1

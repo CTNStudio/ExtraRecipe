@@ -8,11 +8,7 @@
       "item": "minecraft:slime_ball"
     }
   },
-  "pattern": [
-    " # ",
-    "#$#",
-    " # "
-  ],
+  "pattern": [" # ", "#$#", " # "],
   "result": {
     "item": "minecraft:phantom_membrane",
     "count": 9

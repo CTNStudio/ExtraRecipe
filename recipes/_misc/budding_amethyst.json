@@ -8,11 +8,7 @@
       "item": "minecraft:amethyst_block"
     }
   },
-  "pattern": [
-    " # ",
-    "#$#",
-    " # "
-  ],
+  "pattern": [" # ", "#$#", " # "],
   "result": {
     "item": "minecraft:budding_amethyst",
     "count": 1

@@ -11,11 +11,7 @@
       "tags": "minecraft:fishes"
     }
   },
-  "pattern": [
-    " # ",
-    "$@$",
-    " # "
-  ],
+  "pattern": [" # ", "$@$", " # "],
   "result": {
     "item": "minecraft:nautilus_shell",
     "count": 2

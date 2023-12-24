@@ -8,10 +8,7 @@
       "item": "minecraft:sculk"
     }
   },
-  "pattern": [
-    " # ",
-    "$$$"
-  ],
+  "pattern": [" # ", "$$$"],
   "result": {
     "item": "minecraft:sculk_sensor",
     "count": 1

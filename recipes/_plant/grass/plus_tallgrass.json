@@ -5,10 +5,7 @@
       "item": "minecraft:grass"
     }
   },
-  "pattern": [
-    "#",
-    "#"
-  ],
+  "pattern": ["#", "#"],
   "result": {
     "item": "minecraft:tall_grass",
     "count": 1

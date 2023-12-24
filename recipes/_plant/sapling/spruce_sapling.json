@@ -11,10 +11,7 @@
       "item": "minecraft:dead_bush"
     }
   },
-  "pattern": [
-    "#$#",
-    " * "
-  ],
+  "pattern": ["#$#", " * "],
   "result": {
     "item": "minecraft:spruce_sapling",
     "count": 1

@@ -11,11 +11,7 @@
       "item": "minecraft:dropper"
     }
   },
-  "pattern": [
-    " #$",
-    "#*$",
-    " #$"
-  ],
+  "pattern": [" #$", "#*$", " #$"],
   "result": {
     "item": "minecraft:dispenser",
     "count": 1

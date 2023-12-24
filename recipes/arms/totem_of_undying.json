@@ -1,27 +1,23 @@
 {
-    "format_version": "1.12",
-    "minecraft:recipe_shaped": {
-        "description": { "identifier": "extra_recipe:totem_of_undying" },
-        "tags": [ "crafting_table" ],
-        "pattern": [
-            "#$#",
-            "*#*",
-            " # "
-        ],
-        "key": {
-            "#": {
-                "item": "minecraft:gold_ingot"
-            },
-            "$": {
-                "item": "minecraft:nether_star"
-            },
-            "*": {
-                "item": "minecraft:emerald"
-            }
-        },
-        "result": {
-            "item": "minecraft:totem_of_undying",
-            "count": 1
-        }
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "extra_recipe:totem_of_undying" },
+    "tags": ["crafting_table"],
+    "pattern": ["#$#", "*#*", " # "],
+    "key": {
+      "#": {
+        "item": "minecraft:gold_ingot"
+      },
+      "$": {
+        "item": "minecraft:nether_star"
+      },
+      "*": {
+        "item": "minecraft:emerald"
+      }
+    },
+    "result": {
+      "item": "minecraft:totem_of_undying",
+      "count": 1
     }
+  }
 }

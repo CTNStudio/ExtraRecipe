@@ -5,9 +5,7 @@
       "item": "minecraft:snowball"
     }
   },
-  "pattern": [
-    "##"
-  ],
+  "pattern": ["##"],
   "result": {
     "item": "minecraft:snow_layer",
     "count": 1

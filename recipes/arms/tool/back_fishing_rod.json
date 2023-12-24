@@ -2,12 +2,8 @@
   "format_version": "1.12",
   "minecraft:recipe_shaped": {
     "description": { "identifier": "extra_recipe:back_fishing_rod" },
-    "tags": [ "crafting_table" ],
-    "pattern": [
-      "$  ",
-      "#$ ",
-      "# $"
-    ],
+    "tags": ["crafting_table"],
+    "pattern": ["$  ", "#$ ", "# $"],
     "key": {
       "#": {
         "item": "minecraft:string"

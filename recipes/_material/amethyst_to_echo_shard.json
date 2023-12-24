@@ -8,11 +8,7 @@
       "item": "minecraft:sculk"
     }
   },
-  "pattern": [
-    " # ",
-    "#$#",
-    " # "
-  ],
+  "pattern": [" # ", "#$#", " # "],
   "result": {
     "item": "minecraft:echo_shard",
     "count": 4
