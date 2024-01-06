@@ -1,32 +1,30 @@
 {
-  "format_version": "1.20.11",
+  "format_version": "1.12",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "extra_recipe:honey_bottle"
+      "identifier": "minecraft:honey_bottle"
     },
-    "tags": ["crafting_table"],
     "ingredients": [
-      {
-        "item": "minecraft:honeycomb"
-      },
-      {
-        "item": "minecraft:glass_bottle"
-      },
-      {
-        "item": "minecraft:glass_bottle"
-      }
-    ],
-    "unlock": [
-      {
-        "item": "minecraft:honeycomb"
-      },
-      {
-        "item": "minecraft:honey_bottle"
-      }
+      [
+        {
+          "item": "minecraft:honeycomb"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:glass_bottle"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:glass_bottle"
+        }
+      ]
     ],
     "result": {
-      "item": "minecraft:honey_bottle",
-      "count": 2
-    }
+      "count": 2,
+      "item": "minecraft:honey_bottle"
+    },
+    "tags": ["crafting_table"]
   }
 }

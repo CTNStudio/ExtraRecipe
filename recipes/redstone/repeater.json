@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:repeater"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:redstone"
+      },
+      "$": {
+        "item": "minecraft:stick"
+      },
+      "*": {
+        "item": "minecraft:stone"
+      }
+    },
+    "pattern": ["# #", "$#$", "***"],
+    "result": {
+      "count": 1,
+      "item": "minecraft:repeater"
+    },
+    "tags": ["crafting_table"]
+  }
+}

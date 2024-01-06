@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:brick"
-  },
-  "result": "minecraft:howl_pottery_sherd",
-  "count": 1
-}

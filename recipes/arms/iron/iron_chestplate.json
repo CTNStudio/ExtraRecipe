@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:iron_chestplate"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:chainmail_chestplate"
+      }
+    },
+    "pattern": ["###", "###", "###"],
+    "result": {
+      "count": 1,
+      "item": "minecraft:iron_chestplate"
+    },
+    "tags": ["crafting_table"]
+  }
+}

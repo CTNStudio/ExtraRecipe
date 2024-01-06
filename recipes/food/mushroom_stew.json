@@ -1,33 +1,45 @@
 {
-  "format_version": "1.20.11",
+  "format_version": "1.12",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "extra_recipe:mushroom_stew"
+      "identifier": "minecraft:mushroom_stew"
     },
-    "tags": ["crafting_table"],
     "ingredients": [
-      {
-        "item": "minecraft:bowl"
-      },
-      {
-        "item": "minecraft:bowl"
-      },
-      {
-        "item": "minecraft:bowl"
-      },
-      {
-        "item": "minecraft:bowl"
-      },
-      {
-        "item": "minecraft:brown_mushroom_block"
-      },
-      {
-        "item": "minecraft:red_mushroom_block"
-      }
+      [
+        {
+          "item": "minecraft:bowl"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:bowl"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:bowl"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:bowl"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:brown_mushroom_block"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:red_mushroom_block"
+        }
+      ]
     ],
     "result": {
-      "item": "minecraft:mushroom_stew",
-      "count": 4
-    }
+      "count": 4,
+      "item": "minecraft:mushroom_stew"
+    },
+    "tags": ["crafting_table"]
   }
 }

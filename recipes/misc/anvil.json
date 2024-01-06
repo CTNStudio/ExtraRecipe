@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:anvil"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:iron_ingot"
+      },
+      "$": {
+        "item": "minecraft:chipped_anvil"
+      }
+    },
+    "pattern": ["###", "#$#", "###"],
+    "result": {
+      "count": 1,
+      "item": "minecraft:anvil"
+    },
+    "tags": ["crafting_table"]
+  }
+}

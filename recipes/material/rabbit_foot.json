@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:rabbit_foot"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:rabbit_hide"
+      }
+    },
+    "pattern": ["# #", " # "],
+    "result": {
+      "count": 1,
+      "item": "minecraft:rabbit_foot"
+    },
+    "tags": ["crafting_table"]
+  }
+}

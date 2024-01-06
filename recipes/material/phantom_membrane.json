@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:phantom_membrane"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:leather"
+      },
+      "$": {
+        "item": "minecraft:slime_ball"
+      }
+    },
+    "pattern": [" # ", "#$#", " # "],
+    "result": {
+      "count": 9,
+      "item": "minecraft:phantom_membrane"
+    },
+    "tags": ["crafting_table"]
+  }
+}

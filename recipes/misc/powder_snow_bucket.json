@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:powder_snow_bucket"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:snowball"
+      },
+      "$": {
+        "item": "minecraft:bucket"
+      }
+    },
+    "pattern": ["###", "#$#", "###"],
+    "result": {
+      "count": 1,
+      "item": "minecraft:powder_snow_bucket"
+    },
+    "tags": ["crafting_table"]
+  }
+}

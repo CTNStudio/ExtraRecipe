@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:heart_of_the_sea"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:prismarine_crystals"
+      }
+    },
+    "pattern": ["$#$", "#$#", "$#$"],
+    "result": {
+      "count": 1,
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "tags": ["crafting_table"]
+  }
+}

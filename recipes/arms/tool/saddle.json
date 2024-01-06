@@ -1,16 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "#": {
-      "item": "minecraft:leather"
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:saddle"
     },
-    "$": {
-      "item": "minecraft:tripwire_hook"
-    }
-  },
-  "pattern": ["###", "$ $"],
-  "result": {
-    "item": "minecraft:saddle",
-    "count": 1
+    "key": {
+      "#": {
+        "item": "minecraft:leather"
+      },
+      "$": {
+        "item": "minecraft:tripwire_hook"
+      }
+    },
+    "pattern": ["###", "$ $"],
+    "result": {
+      "count": 1,
+      "item": "minecraft:saddle"
+    },
+    "tags": ["crafting_table"]
   }
 }

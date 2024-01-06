@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:rabbit_hide"
+    },
+    "ingredients": [
+      [
+        {
+          "item": "minecraft:leather"
+        }
+      ]
+    ],
+    "result": {
+      "count": 4,
+      "item": "minecraft:rabbit_hide"
+    },
+    "tags": ["crafting_table"]
+  }
+}

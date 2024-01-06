@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:prismarine_shard"
+    },
+    "ingredients": [
+      [
+        {
+          "item": "minecraft:quartz"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:quartz"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:lapis"
+        }
+      ]
+    ],
+    "result": {
+      "count": 3,
+      "item": "minecraft:prismarine_shard"
+    },
+    "tags": ["crafting_table"]
+  }
+}

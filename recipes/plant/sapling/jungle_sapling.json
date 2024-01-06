@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:jungle_sapling"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:jungle_leaves"
+      },
+      "$": {
+        "item": "minecraft:bone_meal"
+      },
+      "*": {
+        "item": "minecraft:dead_bush"
+      }
+    },
+    "pattern": ["#$#", " * "],
+    "result": {
+      "count": 1,
+      "item": "minecraft:jungle_sapling"
+    },
+    "tags": ["crafting_table"]
+  }
+}

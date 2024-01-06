@@ -1,9 +1,9 @@
 {
   "format_version": "1.12",
   "minecraft:recipe_shaped": {
-    "description": { "identifier": "extra_recipe:totem_of_undying" },
-    "tags": ["crafting_table"],
-    "pattern": ["#$#", "*#*", " # "],
+    "description": {
+      "identifier": "minecraft:totem_of_undying"
+    },
     "key": {
       "#": {
         "item": "minecraft:gold_ingot"
@@ -15,9 +15,11 @@
         "item": "minecraft:emerald"
       }
     },
+    "pattern": ["#$#", "*#*", " # "],
     "result": {
-      "item": "minecraft:totem_of_undying",
-      "count": 1
-    }
+      "count": 1,
+      "item": "minecraft:totem_of_undying"
+    },
+    "tags": ["crafting_table"]
   }
 }

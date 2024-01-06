@@ -1,9 +1,9 @@
 {
   "format_version": "1.12",
   "minecraft:recipe_shaped": {
-    "description": { "identifier": "extra_recipe:name_tag" },
-    "tags": ["crafting_table"],
-    "pattern": ["  #", " $ ", "$  "],
+    "description": {
+      "identifier": "minecraft:name_tag"
+    },
     "key": {
       "#": {
         "item": "minecraft:string"
@@ -12,9 +12,11 @@
         "item": "minecraft:paper"
       }
     },
+    "pattern": ["  #", " $ ", "$  "],
     "result": {
-      "item": "minecraft:name_tag",
-      "count": 2
-    }
+      "count": 2,
+      "item": "minecraft:name_tag"
+    },
+    "tags": ["crafting_table"]
   }
 }

@@ -1,9 +1,9 @@
 {
   "format_version": "1.12",
   "minecraft:recipe_shaped": {
-    "description": { "identifier": "extra_recipe:elytra" },
-    "tags": ["crafting_table"],
-    "pattern": ["#$#", "*%*", "* *"],
+    "description": {
+      "identifier": "minecraft:elytra"
+    },
     "key": {
       "#": {
         "item": "minecraft:ender_eye"
@@ -11,16 +11,18 @@
       "$": {
         "item": "minecraft:shulker_shell"
       },
-      "*": {
-        "item": "minecraft:phantom_membrane"
-      },
       "%": {
         "item": "minecraft:chorus_flower"
+      },
+      "*": {
+        "item": "minecraft:phantom_membrane"
       }
     },
+    "pattern": ["#$#", "*%*", "* *"],
     "result": {
-      "item": "minecraft:elytra",
-      "count": 1
-    }
+      "count": 1,
+      "item": "minecraft:elytra"
+    },
+    "tags": ["crafting_table"]
   }
 }

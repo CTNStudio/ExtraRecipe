@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:tall_grass"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:grass"
+      }
+    },
+    "pattern": ["#", "#"],
+    "result": {
+      "count": 1,
+      "item": "minecraft:tall_grass"
+    },
+    "tags": ["crafting_table"]
+  }
+}

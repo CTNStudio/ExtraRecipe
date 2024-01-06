@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:gravel"
+    },
+    "ingredients": [
+      [
+        {
+          "item": "minecraft:flint"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:sand"
+        }
+      ]
+    ],
+    "result": {
+      "count": 1,
+      "item": "minecraft:gravel"
+    },
+    "tags": ["crafting_table"]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:spire_armor_trim_smithing_template"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:purpur_block"
+      },
+      "$": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "pattern": ["###", "#$#", "###"],
+    "result": {
+      "count": 1,
+      "item": "minecraft:spire_armor_trim_smithing_template"
+    },
+    "tags": ["crafting_table"]
+  }
+}

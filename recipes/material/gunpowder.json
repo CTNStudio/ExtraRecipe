@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:gunpowder"
+    },
+    "ingredients": [
+      [
+        {
+          "item": "minecraft:gunpowder"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:redstone"
+        }
+      ]
+    ],
+    "result": {
+      "count": 2,
+      "item": "minecraft:gunpowder"
+    },
+    "tags": ["crafting_table"]
+  }
+}

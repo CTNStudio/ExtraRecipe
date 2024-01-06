@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:grass"
+    },
+    "ingredients": [
+      [
+        {
+          "item": "minecraft:tall_grass"
+        }
+      ]
+    ],
+    "result": {
+      "count": 2,
+      "item": "minecraft:grass"
+    },
+    "tags": ["crafting_table"]
+  }
+}

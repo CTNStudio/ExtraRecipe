@@ -1,20 +1,16 @@
 {
-  "format_version": "1.12",
-  "minecraft:recipe_shaped": {
-    "description": { "identifier": "extra_recipe:back_bow" },
-    "tags": ["crafting_table"],
-    "pattern": ["#$ ", "# $", "#$ "],
-    "key": {
-      "#": {
-        "item": "minecraft:string"
-      },
-      "$": {
-        "item": "minecraft:stick"
-      }
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:string"
     },
-    "result": {
-      "item": "minecraft:bow",
-      "count": 1
+    "$": {
+      "item": "minecraft:stick"
     }
+  },
+  "pattern": ["#$ ", "# $", "#$ "],
+  "result": {
+    "item": "minecraft:bow",
+    "count": 1
   }
 }

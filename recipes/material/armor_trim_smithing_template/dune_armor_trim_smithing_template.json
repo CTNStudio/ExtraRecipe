@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:dune_armor_trim_smithing_template"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:sandstone"
+      },
+      "$": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "pattern": ["#$#", "###", "#$#"],
+    "result": {
+      "count": 1,
+      "item": "minecraft:dune_armor_trim_smithing_template"
+    },
+    "tags": ["crafting_table"]
+  }
+}

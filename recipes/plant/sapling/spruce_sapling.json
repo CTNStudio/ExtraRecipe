@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:spruce_sapling"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:spruce_leaves"
+      },
+      "$": {
+        "item": "minecraft:bone_meal"
+      },
+      "*": {
+        "item": "minecraft:dead_bush"
+      }
+    },
+    "pattern": ["#$#", " * "],
+    "result": {
+      "count": 1,
+      "item": "minecraft:spruce_sapling"
+    },
+    "tags": ["crafting_table"]
+  }
+}

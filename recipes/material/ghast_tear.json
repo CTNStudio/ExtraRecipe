@@ -1,0 +1,35 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:ghast_tear"
+    },
+    "ingredients": [
+      [
+        {
+          "item": "minecraft:spider_eye"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:sugar"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:blaze_powder"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:nether_wart"
+        }
+      ]
+    ],
+    "result": {
+      "count": 2,
+      "item": "minecraft:ghast_tear"
+    },
+    "tags": ["crafting_table"]
+  }
+}

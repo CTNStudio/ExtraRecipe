@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:nautilus_shell"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:prismarine_shard"
+      },
+      "$": {
+        "item": "minecraft:prismarine_crystals"
+      },
+      "@": {
+        "tags": "minecraft:fishes"
+      }
+    },
+    "pattern": [" # ", "$@$", " # "],
+    "result": {
+      "count": 2,
+      "item": "minecraft:nautilus_shell"
+    },
+    "tags": ["crafting_table"]
+  }
+}

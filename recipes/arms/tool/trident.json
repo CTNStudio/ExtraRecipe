@@ -1,9 +1,9 @@
 {
   "format_version": "1.12",
   "minecraft:recipe_shaped": {
-    "description": { "identifier": "extra_recipe:trident" },
-    "tags": ["crafting_table"],
-    "pattern": [" ##", " $#", "$  "],
+    "description": {
+      "identifier": "minecraft:trident"
+    },
     "key": {
       "#": {
         "item": "minecraft:quartz"
@@ -12,9 +12,11 @@
         "item": "minecraft:prismarine_shard"
       }
     },
+    "pattern": [" ##", " $#", "$  "],
     "result": {
-      "item": "minecraft:trident",
-      "count": 1
-    }
+      "count": 1,
+      "item": "minecraft:trident"
+    },
+    "tags": ["crafting_table"]
   }
 }

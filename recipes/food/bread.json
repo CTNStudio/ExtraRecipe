@@ -1,24 +1,19 @@
 {
-  "format_version": "1.20.11",
+  "format_version": "1.12",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "extra_recipe:bread"
+      "identifier": "minecraft:bread"
     },
-    "tags": ["crafting_table"],
-    "pattern": ["###"],
     "key": {
       "#": {
         "item": "minecraft:hay_block"
       }
     },
-    "unlock": [
-      {
-        "item": "minecraft:hay_block"
-      }
-    ],
+    "pattern": ["###"],
     "result": {
-      "item": "minecraft:bread",
-      "count": 9
-    }
+      "count": 9,
+      "item": "minecraft:bread"
+    },
+    "tags": ["crafting_table"]
   }
 }

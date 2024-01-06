@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:prismarine_crystals"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:quartz"
+      },
+      "$": {
+        "item": "minecraft:glowstone"
+      }
+    },
+    "pattern": [" # ", "#$#", " # "],
+    "result": {
+      "count": 4,
+      "item": "minecraft:prismarine_crystals"
+    },
+    "tags": ["crafting_table"]
+  }
+}

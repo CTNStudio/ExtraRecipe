@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:budding_amethyst"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:small_amethyst_bud"
+      },
+      "$": {
+        "item": "minecraft:amethyst_block"
+      }
+    },
+    "pattern": [" # ", "#$#", " # "],
+    "result": {
+      "count": 1,
+      "item": "minecraft:budding_amethyst"
+    },
+    "tags": ["crafting_table"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:fern"
+    },
+    "ingredients": [
+      [
+        {
+          "item": "minecraft:large_fern"
+        }
+      ]
+    ],
+    "result": {
+      "count": 2,
+      "item": "minecraft:fern"
+    },
+    "tags": ["crafting_table"]
+  }
+}

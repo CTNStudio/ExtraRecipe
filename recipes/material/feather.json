@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:feather"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:string"
+      }
+    },
+    "pattern": [" ##", " ##", "#  "],
+    "result": {
+      "count": 9,
+      "item": "minecraft:feather"
+    },
+    "tags": ["crafting_table"]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:large_fern"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:fern"
+      }
+    },
+    "pattern": ["#", "#"],
+    "result": {
+      "count": 1,
+      "item": "minecraft:large_fern"
+    },
+    "tags": ["crafting_table"]
+  }
+}

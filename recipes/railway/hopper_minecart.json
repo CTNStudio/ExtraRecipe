@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:hopper_minecart"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:iron_ingot"
+      },
+      "$": {
+        "item": "minecraft:hopper"
+      }
+    },
+    "pattern": ["#$#", "###"],
+    "result": {
+      "count": 1,
+      "item": "minecraft:hopper_minecart"
+    },
+    "tags": ["crafting_table"]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:coal"
+    },
+    "ingredients": [
+      [
+        {
+          "item": "minecraft:charcoal"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:charcoal"
+        }
+      ],
+      [
+        {
+          "item": "minecraft:coal"
+        }
+      ]
+    ],
+    "result": {
+      "count": 3,
+      "item": "minecraft:coal"
+    },
+    "tags": ["crafting_table"]
+  }
+}

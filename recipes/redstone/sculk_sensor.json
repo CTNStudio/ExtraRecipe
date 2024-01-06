@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:sculk_sensor"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:echo_shard"
+      },
+      "$": {
+        "item": "minecraft:sculk"
+      }
+    },
+    "pattern": [" # ", "$$$"],
+    "result": {
+      "count": 1,
+      "item": "minecraft:sculk_sensor"
+    },
+    "tags": ["crafting_table"]
+  }
+}

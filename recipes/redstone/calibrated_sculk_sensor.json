@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:calibrated_sculk_sensor"
+    },
+    "key": {
+      "#": {
+        "item": "minecraft:echo_shard"
+      },
+      "$": {
+        "item": "minecraft:sculk"
+      },
+      "@": {
+        "item": "minecraft:amethyst_shard"
+      }
+    },
+    "pattern": [" @ ", "@#@", "$$$"],
+    "result": {
+      "count": 1,
+      "item": "minecraft:calibrated_sculk_sensor"
+    },
+    "tags": ["crafting_table"]
+  }
+}
