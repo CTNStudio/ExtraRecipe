@@ -1,3 +1,5 @@
+__This repository is no longer in use, please visit the [new repository](https://github.com/CTNStudio/Extra-Recipe).__
+
 # Extra-Recipe
 Still struggling to find the Enchanted Golden Apple? Still powerless against anvil wear?
 
